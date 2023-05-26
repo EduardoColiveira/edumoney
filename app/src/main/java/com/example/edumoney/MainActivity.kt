@@ -78,4 +78,4 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-// Não deu para rodar o aplicatico com a internet, então fiz de forma manual as conversões
+// Não deu para rodar o aplicatico com a internet, então fiz de forma manual as conversõe
